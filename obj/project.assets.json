@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tataz\\Downloads\\visual studio eyad hamza\\project 2\\project 2.csproj",
-      "projectName": "project 2",
-      "projectPath": "C:\\Users\\tataz\\Downloads\\visual studio eyad hamza\\project 2\\project 2.csproj",
+      "projectUniqueName": "C:\\Users\\tataz\\Downloads\\visual studio eyad hamza\\Project 1 descret\\Project 1 descret.csproj",
+      "projectName": "Project 1 descret",
+      "projectPath": "C:\\Users\\tataz\\Downloads\\visual studio eyad hamza\\Project 1 descret\\Project 1 descret.csproj",
       "packagesPath": "C:\\Users\\tataz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tataz\\Downloads\\visual studio eyad hamza\\project 2\\obj\\",
+      "outputPath": "C:\\Users\\tataz\\Downloads\\visual studio eyad hamza\\Project 1 descret\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tataz\\AppData\\Roaming\\NuGet\\NuGet.Config",
